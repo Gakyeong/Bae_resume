@@ -37,17 +37,27 @@ __Kookmin University__, Seoul, Korea
 ### Owner and Operator
 __Headeunview Hostel__, Yeosu, Korea
 
-•	Attained 4-star rating from 50+ on travel app for offering a clean place and grilled service\n
-•	Supervised the business for 4 years.\n
-•	Managed risks for decreasing profits with unexpected reason by controlling the situation. \n
-•	Analyzed the products depends on customer’s consumption through comparing other business\n
-•	Marketed the place based on online to advertise the key word and promotion\n
-•	Increased overall customer satisfaction and retention by addressing customer needs swiftly and accurately\n
-•	Generated explanation on facility and reservation notice through travel app and websites \n
-•	Managed accounting through every month base budget settlement, profits, labor costs\n
-•	Maintained the facility through inventory management and building management\n
-•	Communicated with others who have connection with a business\n
-•	Attained leadership to take care of business. \n
+•	Attained 4-star rating from 50+ on travel app for offering a clean place and grilled service.
+
+•	Supervised the business for 4 years.
+
+•	Managed risks for decreasing profits with unexpected reason by controlling the situation. 
+
+•	Analyzed the products depends on customer’s consumption through comparing other business.
+
+•	Marketed the place based on online to advertise the key word and promotion.
+
+•	Increased overall customer satisfaction and retention by addressing customer needs swiftly and accurately.
+
+•	Generated explanation on facility and reservation notice through travel app and websites.
+
+•	Managed accounting through every month base budget settlement, profits, labor costs.
+
+•	Maintained the facility through inventory management and building management.
+
+•	Communicated with others who have connection with a business.
+
+•	Attained leadership to take care of business.
 
 ## Service and Work History
 
