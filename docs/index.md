@@ -1,84 +1,58 @@
 ---
 layout: cv
-title: G
+title: Gakyeong's resume
 ---
-# Gdsfghjkhgfr
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Gakyeong Bae 
+Data analyst
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="datascience@byui.edu">bae21006@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://gakyeong.github.io/Bae_resume/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2022-2025`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- GPA : 3.5 +
+- Emhpasis : statistics focus
+- Relevant Courses: Data Science Programming, Social Science Statiscs, Design Thinking
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2010-2015`
+__Kookmin University__, Seoul, Korea
 
-- 4.0 Major GPA
+- GPA : 3.0
+- Revelent Courses: Research Metrology of Political Science, Understnading Culture Anthropology
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+`January 2019 - December 2021`
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+### Owner and Operator
+__Headeunview Hostel__, Yeosu, Korea
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+•	Attained 4-star rating from 50+ on travel app for offering a clean place and grilled service
+•	Supervised the business for 4 years.
+•	Managed risks for decreasing profits with unexpected reason by controlling the situation. 
+•	Analyzed the products depends on customer’s consumption through comparing other business
+•	Marketed the place based on online to advertise the key word and promotion
+•	Increased overall customer satisfaction and retention by addressing customer needs swiftly and accurately
+•	Generated explanation on facility and reservation notice through travel app and websites 
+•	Managed accounting through every month base budget settlement, profits, labor costs
+•	Maintained the facility through inventory management and building management
+•	Communicated with others who have connection with a business
+•	Attained leadership to take care of business. 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2013-2015`
+__Service Missionary__, South Korea
 
 
 
