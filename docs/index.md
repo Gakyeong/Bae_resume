@@ -21,7 +21,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 
 - GPA : 3.5 +
 - Emhpasis : statistics focus
-- Relevant Courses: Data Science Programming, Social Science Statiscs, Design Thinking
+- Relevant Courses: Data Wranglish and Visualization, Data Science Programming, Database Design & Development
 
 `2010-2015`
 __Kookmin University__, Seoul, Korea
@@ -57,7 +57,14 @@ __Headeunview Hostel__, Yeosu, Korea
 
 •	Communicated with others who have connection with a business.
 
-•	Attained leadership to take care of business.
+`Now - Sep 2022`
+
+__Brigham Young Iniversity - Idaho__, ID, US
+
+•	Managed the student’s record issue and understand curriculum cycle
+
+•	Increased proactive interaction with the department and managed thousands of courses.
+
 
 ## Service and Work History
 
