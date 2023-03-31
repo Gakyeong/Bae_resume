@@ -60,6 +60,7 @@ __Headeunview Hostel__, Yeosu, Korea
 `Now - Sep 2022`
 
 __Brigham Young Iniversity - Idaho__, ID, US
+### Curriculum Specialist
 
 •	Managed the student’s record issue and understand curriculum cycle
 
